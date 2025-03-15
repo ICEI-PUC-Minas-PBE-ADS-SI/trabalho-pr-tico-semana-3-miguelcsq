@@ -22,3 +22,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 << ![alt text](/public/printhomepage.png) >>
+
+/* Não consegui dar merge nas branches, o site requisitado esta na branch "miguel" dentro da pasta public
